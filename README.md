@@ -1,11 +1,10 @@
-# odin-recipes
+# Odin Recipes
 
-Recipe webpage project
+Recipe collection
 
-I will build a homepage with links to each recipe.
-Each recipe page will have atleast 1 image, a description and ingredients.
-My main focus is to build my HTML chops in this project. CSS is not in my scope
-at the moment and I will focus on styling it when I get there. 
-(21/08/23)
+This collection of webpages were built as a part of the Odin project.
+
+This consists of a homepage with a simple layout, linking to a few food recipes. 
+My focus was to build the html chops and add css to these pages during my learning process.
 
 
